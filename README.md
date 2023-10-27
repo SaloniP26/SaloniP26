@@ -32,7 +32,9 @@ Experienced Full Stack Developer with exceptional interpersonal skills and an ey
 ## Work Experience
 
 PMAM IT Service Private Limited
+
 Junior Software Developer
+
 16th August 2021 to 19th May 2023
 
 ## Technical Skills
