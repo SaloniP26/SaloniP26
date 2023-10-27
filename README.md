@@ -38,15 +38,15 @@ PMAM IT Service Private Limited
 16th August 2021 to 19th May 2023
 
 ## Technical Skills
-• Programming Languages: C, C++, JAVA, ASP.Net, C#.NET, VB.NET, ASP.Net MVS, PHP, SQL, Ajax
+• 💻 Programming Languages: C, C++, JAVA, ASP.Net, C#.NET, VB.NET, ASP.Net MVS, PHP, SQL, Ajax
 
-• Operating systems: Windows, Linux.
+• 🛠️ Operating systems: Windows, Linux.
 
-• Scripting Language: JavaScript, HTML, JQuery.
+• 🛠️ Scripting Language: JavaScript, HTML, JQuery.
 
-• Designing Languages: HTML, Bootstrap, CSS.
+• 🛠️ Designing Languages: HTML, Bootstrap, CSS.
 
-• Other software: Corel Draw.
+• 🛠️ Other software: Corel Draw.
 
 ## Contact Details
 📧 Email: salonipawar3@gmail.com
