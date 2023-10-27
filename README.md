@@ -39,10 +39,14 @@ Junior Software Developer
 
 ## Technical Skills
 • Programming Languages: C, C++, JAVA, ASP.Net, C#.NET, VB.NET, ASP.Net MVS, PHP, SQL, Ajax
+
 • Operating systems: Windows, Linux.
-• Scripting Language: JavaScript, HTML, JQuery
-• Designing Languages: HTML, Bootstrap, CSS
-• Other software: Corel Draw
+
+• Scripting Language: JavaScript, HTML, JQuery.
+
+• Designing Languages: HTML, Bootstrap, CSS.
+
+• Other software: Corel Draw.
 
 ## Contact Details
 📧 Email: salonipawar3@gmail.com
